@@ -1,2 +1,3 @@
 token for push, commit and other things on Github:
 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
+git push https://<GITHUB_ACCESS_TOKEN>@github.com/<GITHUB_USERNAME>/<REPOSITORY_NAME>.git
